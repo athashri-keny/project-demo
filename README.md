@@ -1,4 +1,4 @@
 # project-demo
 first demo 
 
-auther - athashri keny
+auther - athashri (keny)
